@@ -109,8 +109,8 @@ id: Greenland
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Greenland//
-markerFolder: ./Greenland///
+geojsonFolder: .//
+markerFolder: .///
 ```
 
 [name-en::Greenland] 
