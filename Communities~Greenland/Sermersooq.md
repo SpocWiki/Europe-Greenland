@@ -40,11 +40,16 @@ markerFolder: ./Kommuneqarfik_Sermersooq/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Greenland/Counties/Kommuneqarfik_Sermersooq|Kommuneqarfik_Sermersooq]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Greenland/Counties/Kommuneqarfik_Sermersooq.public|Kommuneqarfik_Sermersooq.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Greenland/Counties/Kommuneqarfik_Sermersooq.internal|Kommuneqarfik_Sermersooq.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Greenland/Counties/Kommuneqarfik_Sermersooq.protect|Kommuneqarfik_Sermersooq.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Greenland/Counties/Kommuneqarfik_Sermersooq.private|Kommuneqarfik_Sermersooq.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Greenland/Counties/Kommuneqarfik_Sermersooq.personal|Kommuneqarfik_Sermersooq.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Greenland/Counties/Kommuneqarfik_Sermersooq.secret|Kommuneqarfik_Sermersooq.secret]] 
+
+### [Sermersooq.public](/_public/\Earth\Continent\Europe\Europe~North\Greenland\Communities~GreenlandSermersooq.public.md) 
+
+### [Sermersooq.internal](/_internal/\Earth\Continent\Europe\Europe~North\Greenland\Communities~GreenlandSermersooq.internal.md) 
+
+### [Sermersooq.protect](/_protect/\Earth\Continent\Europe\Europe~North\Greenland\Communities~GreenlandSermersooq.protect.md) 
+
+### [Sermersooq.private](/_private/\Earth\Continent\Europe\Europe~North\Greenland\Communities~GreenlandSermersooq.private.md) 
+
+### [Sermersooq.personal](/_personal/\Earth\Continent\Europe\Europe~North\Greenland\Communities~GreenlandSermersooq.personal.md) 
+
+### [Sermersooq.secret](/_secret/\Earth\Continent\Europe\Europe~North\Greenland\Communities~GreenlandSermersooq.secret.md)
 

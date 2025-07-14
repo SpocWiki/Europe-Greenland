@@ -40,11 +40,16 @@ markerFolder: ./Qaasuitsup_Kommunia/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Greenland/Counties/Qaasuitsup_Kommunia|Qaasuitsup_Kommunia]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Greenland/Counties/Qaasuitsup_Kommunia.public|Qaasuitsup_Kommunia.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Greenland/Counties/Qaasuitsup_Kommunia.internal|Qaasuitsup_Kommunia.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Greenland/Counties/Qaasuitsup_Kommunia.protect|Qaasuitsup_Kommunia.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Greenland/Counties/Qaasuitsup_Kommunia.private|Qaasuitsup_Kommunia.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Greenland/Counties/Qaasuitsup_Kommunia.personal|Qaasuitsup_Kommunia.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Greenland/Counties/Qaasuitsup_Kommunia.secret|Qaasuitsup_Kommunia.secret]] 
+
+### [Qaasuitsup.public](/_public/\Earth\Continent\Europe\Europe~North\Greenland\Communities~GreenlandQaasuitsup.public.md) 
+
+### [Qaasuitsup.internal](/_internal/\Earth\Continent\Europe\Europe~North\Greenland\Communities~GreenlandQaasuitsup.internal.md) 
+
+### [Qaasuitsup.protect](/_protect/\Earth\Continent\Europe\Europe~North\Greenland\Communities~GreenlandQaasuitsup.protect.md) 
+
+### [Qaasuitsup.private](/_private/\Earth\Continent\Europe\Europe~North\Greenland\Communities~GreenlandQaasuitsup.private.md) 
+
+### [Qaasuitsup.personal](/_personal/\Earth\Continent\Europe\Europe~North\Greenland\Communities~GreenlandQaasuitsup.personal.md) 
+
+### [Qaasuitsup.secret](/_secret/\Earth\Continent\Europe\Europe~North\Greenland\Communities~GreenlandQaasuitsup.secret.md)
 

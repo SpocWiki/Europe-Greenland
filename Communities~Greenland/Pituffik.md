@@ -40,11 +40,16 @@ markerFolder: ./Pituffik/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Greenland/Counties/Pituffik|Pituffik]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Greenland/Counties/Pituffik.public|Pituffik.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Greenland/Counties/Pituffik.internal|Pituffik.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Greenland/Counties/Pituffik.protect|Pituffik.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Greenland/Counties/Pituffik.private|Pituffik.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Greenland/Counties/Pituffik.personal|Pituffik.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Greenland/Counties/Pituffik.secret|Pituffik.secret]] 
+
+### [Pituffik.public](/_public/\Earth\Continent\Europe\Europe~North\Greenland\Communities~GreenlandPituffik.public.md) 
+
+### [Pituffik.internal](/_internal/\Earth\Continent\Europe\Europe~North\Greenland\Communities~GreenlandPituffik.internal.md) 
+
+### [Pituffik.protect](/_protect/\Earth\Continent\Europe\Europe~North\Greenland\Communities~GreenlandPituffik.protect.md) 
+
+### [Pituffik.private](/_private/\Earth\Continent\Europe\Europe~North\Greenland\Communities~GreenlandPituffik.private.md) 
+
+### [Pituffik.personal](/_personal/\Earth\Continent\Europe\Europe~North\Greenland\Communities~GreenlandPituffik.personal.md) 
+
+### [Pituffik.secret](/_secret/\Earth\Continent\Europe\Europe~North\Greenland\Communities~GreenlandPituffik.secret.md)
 

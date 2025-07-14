@@ -40,11 +40,16 @@ markerFolder: ./Kommune_Kujalleq/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Greenland/Counties/Kommune_Kujalleq|Kommune_Kujalleq]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Greenland/Counties/Kommune_Kujalleq.public|Kommune_Kujalleq.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Greenland/Counties/Kommune_Kujalleq.internal|Kommune_Kujalleq.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Greenland/Counties/Kommune_Kujalleq.protect|Kommune_Kujalleq.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Greenland/Counties/Kommune_Kujalleq.private|Kommune_Kujalleq.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Greenland/Counties/Kommune_Kujalleq.personal|Kommune_Kujalleq.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Greenland/Counties/Kommune_Kujalleq.secret|Kommune_Kujalleq.secret]] 
+
+### [Kujalleq.public](/_public/\Earth\Continent\Europe\Europe~North\Greenland\Communities~GreenlandKujalleq.public.md) 
+
+### [Kujalleq.internal](/_internal/\Earth\Continent\Europe\Europe~North\Greenland\Communities~GreenlandKujalleq.internal.md) 
+
+### [Kujalleq.protect](/_protect/\Earth\Continent\Europe\Europe~North\Greenland\Communities~GreenlandKujalleq.protect.md) 
+
+### [Kujalleq.private](/_private/\Earth\Continent\Europe\Europe~North\Greenland\Communities~GreenlandKujalleq.private.md) 
+
+### [Kujalleq.personal](/_personal/\Earth\Continent\Europe\Europe~North\Greenland\Communities~GreenlandKujalleq.personal.md) 
+
+### [Kujalleq.secret](/_secret/\Earth\Continent\Europe\Europe~North\Greenland\Communities~GreenlandKujalleq.secret.md)
 

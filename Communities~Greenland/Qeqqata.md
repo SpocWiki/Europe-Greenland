@@ -40,11 +40,16 @@ markerFolder: ./Qeqqata_Kommunia/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Greenland/Counties/Qeqqata_Kommunia|Qeqqata_Kommunia]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Greenland/Counties/Qeqqata_Kommunia.public|Qeqqata_Kommunia.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Greenland/Counties/Qeqqata_Kommunia.internal|Qeqqata_Kommunia.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Greenland/Counties/Qeqqata_Kommunia.protect|Qeqqata_Kommunia.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Greenland/Counties/Qeqqata_Kommunia.private|Qeqqata_Kommunia.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Greenland/Counties/Qeqqata_Kommunia.personal|Qeqqata_Kommunia.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Greenland/Counties/Qeqqata_Kommunia.secret|Qeqqata_Kommunia.secret]] 
+
+### [Qeqqata.public](/_public/\Earth\Continent\Europe\Europe~North\Greenland\Communities~GreenlandQeqqata.public.md) 
+
+### [Qeqqata.internal](/_internal/\Earth\Continent\Europe\Europe~North\Greenland\Communities~GreenlandQeqqata.internal.md) 
+
+### [Qeqqata.protect](/_protect/\Earth\Continent\Europe\Europe~North\Greenland\Communities~GreenlandQeqqata.protect.md) 
+
+### [Qeqqata.private](/_private/\Earth\Continent\Europe\Europe~North\Greenland\Communities~GreenlandQeqqata.private.md) 
+
+### [Qeqqata.personal](/_personal/\Earth\Continent\Europe\Europe~North\Greenland\Communities~GreenlandQeqqata.personal.md) 
+
+### [Qeqqata.secret](/_secret/\Earth\Continent\Europe\Europe~North\Greenland\Communities~GreenlandQeqqata.secret.md)
 

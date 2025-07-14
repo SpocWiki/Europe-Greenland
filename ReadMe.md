@@ -129,12 +129,17 @@ Capital :: [[Godthab]]
 [has_place_latitude::64.25] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/Europe/Europe~North/Greenland|Greenland]] 
-- [[../../../../../_public/geo/Continent/Europe/Europe~North/Greenland.public|Greenland.public]] 
-- [[../../../../../_internal/geo/Continent/Europe/Europe~North/Greenland.internal|Greenland.internal]] 
-- [[../../../../../_protect/geo/Continent/Europe/Europe~North/Greenland.protect|Greenland.protect]] 
-- [[../../../../../_private/geo/Continent/Europe/Europe~North/Greenland.private|Greenland.private]] 
-- [[../../../../../_personal/geo/Continent/Europe/Europe~North/Greenland.personal|Greenland.personal]] 
-- [[../../../../../_secret/geo/Continent/Europe/Europe~North/Greenland.secret|Greenland.secret]] 
+
+### [ReadMe.public](/_public/\Earth\Continent\Europe\Europe~North\GreenlandReadMe.public.md) 
+
+### [ReadMe.internal](/_internal/\Earth\Continent\Europe\Europe~North\GreenlandReadMe.internal.md) 
+
+### [ReadMe.protect](/_protect/\Earth\Continent\Europe\Europe~North\GreenlandReadMe.protect.md) 
+
+### [ReadMe.private](/_private/\Earth\Continent\Europe\Europe~North\GreenlandReadMe.private.md) 
+
+### [ReadMe.personal](/_personal/\Earth\Continent\Europe\Europe~North\GreenlandReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/\Earth\Continent\Europe\Europe~North\GreenlandReadMe.secret.md)
+

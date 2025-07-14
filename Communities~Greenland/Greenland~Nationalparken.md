@@ -40,11 +40,16 @@ markerFolder: ./Nationalparken/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Greenland/Counties/Nationalparken|Nationalparken]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Greenland/Counties/Nationalparken.public|Nationalparken.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Greenland/Counties/Nationalparken.internal|Nationalparken.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Greenland/Counties/Nationalparken.protect|Nationalparken.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Greenland/Counties/Nationalparken.private|Nationalparken.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Greenland/Counties/Nationalparken.personal|Nationalparken.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Greenland/Counties/Nationalparken.secret|Nationalparken.secret]] 
+
+### [Greenland~Nationalparken.public](/_public/\Earth\Continent\Europe\Europe~North\Greenland\Communities~GreenlandGreenland~Nationalparken.public.md) 
+
+### [Greenland~Nationalparken.internal](/_internal/\Earth\Continent\Europe\Europe~North\Greenland\Communities~GreenlandGreenland~Nationalparken.internal.md) 
+
+### [Greenland~Nationalparken.protect](/_protect/\Earth\Continent\Europe\Europe~North\Greenland\Communities~GreenlandGreenland~Nationalparken.protect.md) 
+
+### [Greenland~Nationalparken.private](/_private/\Earth\Continent\Europe\Europe~North\Greenland\Communities~GreenlandGreenland~Nationalparken.private.md) 
+
+### [Greenland~Nationalparken.personal](/_personal/\Earth\Continent\Europe\Europe~North\Greenland\Communities~GreenlandGreenland~Nationalparken.personal.md) 
+
+### [Greenland~Nationalparken.secret](/_secret/\Earth\Continent\Europe\Europe~North\Greenland\Communities~GreenlandGreenland~Nationalparken.secret.md)
 
