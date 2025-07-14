@@ -113,15 +113,17 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 ## Confidential Links & Embeds: 
 
-### [License.public](/_public/\Earth\Continent\Europe\Europe~North\GreenlandLicense.public.md) 
+### [License](/_Standards/Earth/Continent/Europe/Europe~North/Greenland/License.md) 
 
-### [License.internal](/_internal/\Earth\Continent\Europe\Europe~North\GreenlandLicense.internal.md) 
+### [License.public](/_public/Earth/Continent/Europe/Europe~North/Greenland/License.public.md) 
 
-### [License.protect](/_protect/\Earth\Continent\Europe\Europe~North\GreenlandLicense.protect.md) 
+### [License.internal](/_internal/Earth/Continent/Europe/Europe~North/Greenland/License.internal.md) 
 
-### [License.private](/_private/\Earth\Continent\Europe\Europe~North\GreenlandLicense.private.md) 
+### [License.protect](/_protect/Earth/Continent/Europe/Europe~North/Greenland/License.protect.md) 
 
-### [License.personal](/_personal/\Earth\Continent\Europe\Europe~North\GreenlandLicense.personal.md) 
+### [License.private](/_private/Earth/Continent/Europe/Europe~North/Greenland/License.private.md) 
 
-### [License.secret](/_secret/\Earth\Continent\Europe\Europe~North\GreenlandLicense.secret.md)
+### [License.personal](/_personal/Earth/Continent/Europe/Europe~North/Greenland/License.personal.md) 
+
+### [License.secret](/_secret/Earth/Continent/Europe/Europe~North/Greenland/License.secret.md)
 

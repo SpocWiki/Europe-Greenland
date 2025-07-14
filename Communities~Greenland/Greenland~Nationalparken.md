@@ -41,15 +41,17 @@ markerFolder: ./Nationalparken/
 
 ## Confidential Links & Embeds: 
 
-### [Greenland~Nationalparken.public](/_public/\Earth\Continent\Europe\Europe~North\Greenland\Communities~GreenlandGreenland~Nationalparken.public.md) 
+### [Greenland~Nationalparken](/_Standards/Earth/Continent/Europe/Europe~North/Greenland/Communities~Greenland/Greenland~Nationalparken.md) 
 
-### [Greenland~Nationalparken.internal](/_internal/\Earth\Continent\Europe\Europe~North\Greenland\Communities~GreenlandGreenland~Nationalparken.internal.md) 
+### [Greenland~Nationalparken.public](/_public/Earth/Continent/Europe/Europe~North/Greenland/Communities~Greenland/Greenland~Nationalparken.public.md) 
 
-### [Greenland~Nationalparken.protect](/_protect/\Earth\Continent\Europe\Europe~North\Greenland\Communities~GreenlandGreenland~Nationalparken.protect.md) 
+### [Greenland~Nationalparken.internal](/_internal/Earth/Continent/Europe/Europe~North/Greenland/Communities~Greenland/Greenland~Nationalparken.internal.md) 
 
-### [Greenland~Nationalparken.private](/_private/\Earth\Continent\Europe\Europe~North\Greenland\Communities~GreenlandGreenland~Nationalparken.private.md) 
+### [Greenland~Nationalparken.protect](/_protect/Earth/Continent/Europe/Europe~North/Greenland/Communities~Greenland/Greenland~Nationalparken.protect.md) 
 
-### [Greenland~Nationalparken.personal](/_personal/\Earth\Continent\Europe\Europe~North\Greenland\Communities~GreenlandGreenland~Nationalparken.personal.md) 
+### [Greenland~Nationalparken.private](/_private/Earth/Continent/Europe/Europe~North/Greenland/Communities~Greenland/Greenland~Nationalparken.private.md) 
 
-### [Greenland~Nationalparken.secret](/_secret/\Earth\Continent\Europe\Europe~North\Greenland\Communities~GreenlandGreenland~Nationalparken.secret.md)
+### [Greenland~Nationalparken.personal](/_personal/Earth/Continent/Europe/Europe~North/Greenland/Communities~Greenland/Greenland~Nationalparken.personal.md) 
+
+### [Greenland~Nationalparken.secret](/_secret/Earth/Continent/Europe/Europe~North/Greenland/Communities~Greenland/Greenland~Nationalparken.secret.md)
 

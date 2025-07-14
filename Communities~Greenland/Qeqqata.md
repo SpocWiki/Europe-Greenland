@@ -41,15 +41,17 @@ markerFolder: ./Qeqqata_Kommunia/
 
 ## Confidential Links & Embeds: 
 
-### [Qeqqata.public](/_public/\Earth\Continent\Europe\Europe~North\Greenland\Communities~GreenlandQeqqata.public.md) 
+### [Qeqqata](/_Standards/Earth/Continent/Europe/Europe~North/Greenland/Communities~Greenland/Qeqqata.md) 
 
-### [Qeqqata.internal](/_internal/\Earth\Continent\Europe\Europe~North\Greenland\Communities~GreenlandQeqqata.internal.md) 
+### [Qeqqata.public](/_public/Earth/Continent/Europe/Europe~North/Greenland/Communities~Greenland/Qeqqata.public.md) 
 
-### [Qeqqata.protect](/_protect/\Earth\Continent\Europe\Europe~North\Greenland\Communities~GreenlandQeqqata.protect.md) 
+### [Qeqqata.internal](/_internal/Earth/Continent/Europe/Europe~North/Greenland/Communities~Greenland/Qeqqata.internal.md) 
 
-### [Qeqqata.private](/_private/\Earth\Continent\Europe\Europe~North\Greenland\Communities~GreenlandQeqqata.private.md) 
+### [Qeqqata.protect](/_protect/Earth/Continent/Europe/Europe~North/Greenland/Communities~Greenland/Qeqqata.protect.md) 
 
-### [Qeqqata.personal](/_personal/\Earth\Continent\Europe\Europe~North\Greenland\Communities~GreenlandQeqqata.personal.md) 
+### [Qeqqata.private](/_private/Earth/Continent/Europe/Europe~North/Greenland/Communities~Greenland/Qeqqata.private.md) 
 
-### [Qeqqata.secret](/_secret/\Earth\Continent\Europe\Europe~North\Greenland\Communities~GreenlandQeqqata.secret.md)
+### [Qeqqata.personal](/_personal/Earth/Continent/Europe/Europe~North/Greenland/Communities~Greenland/Qeqqata.personal.md) 
+
+### [Qeqqata.secret](/_secret/Earth/Continent/Europe/Europe~North/Greenland/Communities~Greenland/Qeqqata.secret.md)
 

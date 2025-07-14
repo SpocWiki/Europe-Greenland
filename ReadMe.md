@@ -131,15 +131,17 @@ Capital :: [[Godthab]]
 
 ## Confidential Links & Embeds: 
 
-### [ReadMe.public](/_public/\Earth\Continent\Europe\Europe~North\GreenlandReadMe.public.md) 
+### [ReadMe](/_Standards/Earth/Continent/Europe/Europe~North/Greenland/ReadMe.md) 
 
-### [ReadMe.internal](/_internal/\Earth\Continent\Europe\Europe~North\GreenlandReadMe.internal.md) 
+### [ReadMe.public](/_public/Earth/Continent/Europe/Europe~North/Greenland/ReadMe.public.md) 
 
-### [ReadMe.protect](/_protect/\Earth\Continent\Europe\Europe~North\GreenlandReadMe.protect.md) 
+### [ReadMe.internal](/_internal/Earth/Continent/Europe/Europe~North/Greenland/ReadMe.internal.md) 
 
-### [ReadMe.private](/_private/\Earth\Continent\Europe\Europe~North\GreenlandReadMe.private.md) 
+### [ReadMe.protect](/_protect/Earth/Continent/Europe/Europe~North/Greenland/ReadMe.protect.md) 
 
-### [ReadMe.personal](/_personal/\Earth\Continent\Europe\Europe~North\GreenlandReadMe.personal.md) 
+### [ReadMe.private](/_private/Earth/Continent/Europe/Europe~North/Greenland/ReadMe.private.md) 
 
-### [ReadMe.secret](/_secret/\Earth\Continent\Europe\Europe~North\GreenlandReadMe.secret.md)
+### [ReadMe.personal](/_personal/Earth/Continent/Europe/Europe~North/Greenland/ReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/Earth/Continent/Europe/Europe~North/Greenland/ReadMe.secret.md)
 

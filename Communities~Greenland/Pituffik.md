@@ -41,15 +41,17 @@ markerFolder: ./Pituffik/
 
 ## Confidential Links & Embeds: 
 
-### [Pituffik.public](/_public/\Earth\Continent\Europe\Europe~North\Greenland\Communities~GreenlandPituffik.public.md) 
+### [Pituffik](/_Standards/Earth/Continent/Europe/Europe~North/Greenland/Communities~Greenland/Pituffik.md) 
 
-### [Pituffik.internal](/_internal/\Earth\Continent\Europe\Europe~North\Greenland\Communities~GreenlandPituffik.internal.md) 
+### [Pituffik.public](/_public/Earth/Continent/Europe/Europe~North/Greenland/Communities~Greenland/Pituffik.public.md) 
 
-### [Pituffik.protect](/_protect/\Earth\Continent\Europe\Europe~North\Greenland\Communities~GreenlandPituffik.protect.md) 
+### [Pituffik.internal](/_internal/Earth/Continent/Europe/Europe~North/Greenland/Communities~Greenland/Pituffik.internal.md) 
 
-### [Pituffik.private](/_private/\Earth\Continent\Europe\Europe~North\Greenland\Communities~GreenlandPituffik.private.md) 
+### [Pituffik.protect](/_protect/Earth/Continent/Europe/Europe~North/Greenland/Communities~Greenland/Pituffik.protect.md) 
 
-### [Pituffik.personal](/_personal/\Earth\Continent\Europe\Europe~North\Greenland\Communities~GreenlandPituffik.personal.md) 
+### [Pituffik.private](/_private/Earth/Continent/Europe/Europe~North/Greenland/Communities~Greenland/Pituffik.private.md) 
 
-### [Pituffik.secret](/_secret/\Earth\Continent\Europe\Europe~North\Greenland\Communities~GreenlandPituffik.secret.md)
+### [Pituffik.personal](/_personal/Earth/Continent/Europe/Europe~North/Greenland/Communities~Greenland/Pituffik.personal.md) 
+
+### [Pituffik.secret](/_secret/Earth/Continent/Europe/Europe~North/Greenland/Communities~Greenland/Pituffik.secret.md)
 

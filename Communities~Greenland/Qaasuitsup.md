@@ -41,15 +41,17 @@ markerFolder: ./Qaasuitsup_Kommunia/
 
 ## Confidential Links & Embeds: 
 
-### [Qaasuitsup.public](/_public/\Earth\Continent\Europe\Europe~North\Greenland\Communities~GreenlandQaasuitsup.public.md) 
+### [Qaasuitsup](/_Standards/Earth/Continent/Europe/Europe~North/Greenland/Communities~Greenland/Qaasuitsup.md) 
 
-### [Qaasuitsup.internal](/_internal/\Earth\Continent\Europe\Europe~North\Greenland\Communities~GreenlandQaasuitsup.internal.md) 
+### [Qaasuitsup.public](/_public/Earth/Continent/Europe/Europe~North/Greenland/Communities~Greenland/Qaasuitsup.public.md) 
 
-### [Qaasuitsup.protect](/_protect/\Earth\Continent\Europe\Europe~North\Greenland\Communities~GreenlandQaasuitsup.protect.md) 
+### [Qaasuitsup.internal](/_internal/Earth/Continent/Europe/Europe~North/Greenland/Communities~Greenland/Qaasuitsup.internal.md) 
 
-### [Qaasuitsup.private](/_private/\Earth\Continent\Europe\Europe~North\Greenland\Communities~GreenlandQaasuitsup.private.md) 
+### [Qaasuitsup.protect](/_protect/Earth/Continent/Europe/Europe~North/Greenland/Communities~Greenland/Qaasuitsup.protect.md) 
 
-### [Qaasuitsup.personal](/_personal/\Earth\Continent\Europe\Europe~North\Greenland\Communities~GreenlandQaasuitsup.personal.md) 
+### [Qaasuitsup.private](/_private/Earth/Continent/Europe/Europe~North/Greenland/Communities~Greenland/Qaasuitsup.private.md) 
 
-### [Qaasuitsup.secret](/_secret/\Earth\Continent\Europe\Europe~North\Greenland\Communities~GreenlandQaasuitsup.secret.md)
+### [Qaasuitsup.personal](/_personal/Earth/Continent/Europe/Europe~North/Greenland/Communities~Greenland/Qaasuitsup.personal.md) 
+
+### [Qaasuitsup.secret](/_secret/Earth/Continent/Europe/Europe~North/Greenland/Communities~Greenland/Qaasuitsup.secret.md)
 
