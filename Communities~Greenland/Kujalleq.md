@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Kommune_Kujalleq
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Kommune_Kujalleq/
 markerFolder: ./Kommune_Kujalleq/

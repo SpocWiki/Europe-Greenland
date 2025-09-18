@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Kommuneqarfik_Sermersooq
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Kommuneqarfik_Sermersooq/
 markerFolder: ./Kommuneqarfik_Sermersooq/

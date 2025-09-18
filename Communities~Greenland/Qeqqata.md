@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Qeqqata_Kommunia
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Qeqqata_Kommunia/
 markerFolder: ./Qeqqata_Kommunia/

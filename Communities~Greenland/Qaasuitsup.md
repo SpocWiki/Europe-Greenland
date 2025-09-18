@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Qaasuitsup_Kommunia
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Qaasuitsup_Kommunia/
 markerFolder: ./Qaasuitsup_Kommunia/
