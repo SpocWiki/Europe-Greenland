@@ -14,9 +14,9 @@ tags:
   - geo/Country/Region
 aliases:
   - Nationalparken
-  - Northeast Greenland National Park 
+  - Northeast Greenland National Park
   - Kalaallit Nunaanni nuna eqqissisimatitaq
-  - Grønlands Nationalpark
+  - Grï¿½nlands Nationalpark
 Languages:
   - de
 cssclasses:
@@ -28,7 +28,6 @@ layout:
 publishDate:
 expiryDate:
 has_id_wikidata: Q309276
-location: [ 77.0, -31.0]
 coordinate_location: Point(-31.0 77.0)
 instance_of:
   - "[[_Standards/WikiData/WD~biosphere_reserve,158454]]"
@@ -56,28 +55,33 @@ locator_map_image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Greenland%20National%20Park%20locator%20map.svg
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Wv%20Northeast%20Greenland%20National%20Park%20banner.jpg
 Wolfram_Language_entity_code: Entity["Park", "NortheastGreenlandNationalPark::6356z"]
-official_name: Nationalparken i Nord- og Østgrønland
+official_name: Nationalparken i Nord- og ï¿½stgrï¿½nland
 native_label: Kalaallit Nunaanni nuna eqqissisimatitaq
 satellite_view: http://commons.wikimedia.org/wiki/Special:FilePath/Earth%20from%20Space-%20Northeast%20Greenland%20National%20Park%20ESA512867.jpg
 ---
 
 
-# [[Northeast_Greenland_National_Park]] 
+# [[[Greenland~Nationalparken]]
 
 #is_/same_as :: [[WD~Northeast_Greenland_National_Park,309276]] 
 
+## #has_/map 
+
 ```leaflet
-id: Nationalparken
+id: Greenland~Nationalparken
 zoomFeatures: true 
-minZoom: 4 
+minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Nationalparken/
-markerFolder: ./Nationalparken/
+defaultZoom: 3 
+coordinates: [[Greenland~Nationalparken]] 
+markerFile: [[Greenland~Nationalparken]] 
+geojsonFolder: ./Greenland~Nationalparken/
+markerFolder: ./Greenland~Nationalparken/
 ```
 
 ## #has_/text_of_/abstract 
 
-> Northeast Greenland National Park (Greenlandic: Kalaallit Nunaanni nuna eqqissisimatitaq, Danish: Grønlands Nationalpark) is the world's largest national park and the 10th largest protected area (the only larger protected areas consist mostly of sea). Established in 1974, the Northeast Greenland national park expanded to its present size in 1988. It protects 972,000 km2 (375,000 sq mi) of the interior and northeastern coast of Greenland and is larger than the area of Tanzania, but smaller than that of Egypt. This means that the national park is bigger than 166 of the world's 195 countries. It was the first national park to be created in the Kingdom of Denmark and remains Greenland's only national park. It is the northernmost national park in the world and the second-largest by area of any second-level subdivision of any country in the world, trailing only the Qikiqtaaluk Region in Nunavut, Canada.
+> Northeast Greenland National Park (Greenlandic: Kalaallit Nunaanni nuna eqqissisimatitaq, Danish: Grï¿½nlands Nationalpark) is the world's largest national park and the 10th largest protected area (the only larger protected areas consist mostly of sea). Established in 1974, the Northeast Greenland national park expanded to its present size in 1988. It protects 972,000 km2 (375,000 sq mi) of the interior and northeastern coast of Greenland and is larger than the area of Tanzania, but smaller than that of Egypt. This means that the national park is bigger than 166 of the world's 195 countries. It was the first national park to be created in the Kingdom of Denmark and remains Greenland's only national park. It is the northernmost national park in the world and the second-largest by area of any second-level subdivision of any country in the world, trailing only the Qikiqtaaluk Region in Nunavut, Canada.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Northeast%20Greenland%20National%20Park) 
 
