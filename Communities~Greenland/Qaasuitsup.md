@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Qaasuitsup_Kommunia
+  - Qaasuitsup
 location:
   - 74
   - -50
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Qaasuitsup_Kommunia
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Qaasuitsup_Kommunia

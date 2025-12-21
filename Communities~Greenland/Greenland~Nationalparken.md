@@ -1,4 +1,11 @@
 ---
+aliases:
+  - Nationalparken
+  - Northeast Greenland National Park
+  - Kalaallit Nunaanni nuna eqqissisimatitaq
+  - Gr�nlands Nationalpark
+  - Greenland~Nationalparken
+has_id_wikidata: Q309276
 location:
   - 77
   - -32
@@ -12,36 +19,30 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Nationalparken
-  - Northeast Greenland National Park
-  - Kalaallit Nunaanni nuna eqqissisimatitaq
-  - Gr�nlands Nationalpark
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
-has_id_wikidata: Q309276
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 coordinate_location: Point(-31.0 77.0)
 instance_of:
-  - "[[_Standards/WikiData/WD~biosphere_reserve,158454]]"
-  - "[[_Standards/WikiData/WD~nature_reserve,179049]]"
-  - "[[_Standards/WikiData/WD~protected_area,473972]]"
-  - "[[_Standards/WikiData/WD~unincorporated_area_of_Greenland,52994899]]"
-  - "[[_Standards/WikiData/WD~national_park,46169]]"
+  - '[[_Standards/WikiData/WD~biosphere_reserve,158454]]'
+  - '[[_Standards/WikiData/WD~nature_reserve,179049]]'
+  - '[[_Standards/WikiData/WD~protected_area,473972]]'
+  - '[[_Standards/WikiData/WD~unincorporated_area_of_Greenland,52994899]]'
+  - '[[_Standards/WikiData/WD~national_park,46169]]'
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Sermersooq,695387]]"
-  - "[[_Standards/WikiData/WD~Avannaata,44593409]]"
-is_member_of: "[[_Standards/WikiData/WD~Man_and_the_Biosphere_Programme,14018439]]"
-IUCN_protected_areas_category: "[[_Standards/WikiData/WD~IUCN_category_II_National_Park,14545628]]"
+  - '[[_Standards/WikiData/WD~Sermersooq,695387]]'
+  - '[[_Standards/WikiData/WD~Avannaata,44593409]]'
+is_member_of: '[[_Standards/WikiData/WD~Man_and_the_Biosphere_Programme,14018439]]'
+IUCN_protected_areas_category: '[[_Standards/WikiData/WD~IUCN_category_II_National_Park,14545628]]'
 population: 100
-country: "[[_Standards/WikiData/WD~Greenland,223]]"
+country: '[[_Standards/WikiData/WD~Greenland,223]]'
 area: 972000
 UNESCO_Biosphere_Reserve_URL: http://www.unesco.org/new/en/natural-sciences/environment/ecological-sciences/biosphere-reserves/europe-north-america/denmark/north-east-greenland/
 inception: 1974-05-22T00:00:00Z

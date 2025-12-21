@@ -1,16 +1,19 @@
 ---
-location: [64.25,-51.67] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Godthab
+location:
+  - 64.25
+  - -51.67
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 30486
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

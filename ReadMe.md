@@ -1,4 +1,13 @@
 ---
+aliases:
+  - Greenland
+  - Groenlandia
+  - Groenland
+  - غرينلند
+  - 格陵兰
+  - Гренландия
+  - ''
+  - ReadMe
 location:
   - 64.25
   - -51.67
@@ -15,20 +24,12 @@ cssclasses:
   - Country
 publish: true
 title: Greenland
-linkTitle:
-keywords:
-layout:
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Greenland
-  - Groenlandia
-  - Groenland
-  - غرينلند
-  - 格陵兰
-  - Гренландия
-  - 
+publishDate: ''
+expiryDate: ''
 Languages:
   - kl
   - da-GL

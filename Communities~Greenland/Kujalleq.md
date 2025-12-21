@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Kommune_Kujalleq
+  - Kujalleq
 location:
   - 61.4
   - -44.7
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Kommune_Kujalleq
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Kommune_Kujalleq
