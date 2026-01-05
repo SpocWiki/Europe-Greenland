@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1974-05-22 
 aliases:
   - Nationalparken
   - Northeast Greenland National Park
