@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30486
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: -51.67
+dv_has_place_latitude: 64.25
+dv_name: Godthab
+dv_Country: "[[../../Greenland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-51.67] 
-[has_place_latitude::64.25] 
-[name::Godthab] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Greenland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Godthab](/_Standards/Earth/Continent/Europe/Europe~North/Greenland/City/Godthab.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Greenland/City/Godthab|Godthab]] 
 
-### [Godthab.public](/_public/Earth/Continent/Europe/Europe~North/Greenland/City/Godthab.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Greenland/City/Godthab.public|Godthab.public]] 
 
-### [Godthab.internal](/_internal/Earth/Continent/Europe/Europe~North/Greenland/City/Godthab.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Greenland/City/Godthab.internal|Godthab.internal]] 
 
-### [Godthab.protect](/_protect/Earth/Continent/Europe/Europe~North/Greenland/City/Godthab.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Greenland/City/Godthab.protect|Godthab.protect]] 
 
-### [Godthab.private](/_private/Earth/Continent/Europe/Europe~North/Greenland/City/Godthab.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Greenland/City/Godthab.private|Godthab.private]] 
 
-### [Godthab.personal](/_personal/Earth/Continent/Europe/Europe~North/Greenland/City/Godthab.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Greenland/City/Godthab.personal|Godthab.personal]] 
 
-### [Godthab.secret](/_secret/Earth/Continent/Europe/Europe~North/Greenland/City/Godthab.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Greenland/City/Godthab.secret|Godthab.secret]] 
 

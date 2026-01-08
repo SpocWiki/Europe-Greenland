@@ -8,40 +8,43 @@ aliases:
   - Baffin Bay
 has_id_wikidata: Q37040
 part_of:
-  - '[[_Standards/WikiData/WD~Labrador_Sea,184189]]'
-  - '[[_Standards/WikiData/WD~Arctic_Ocean,788]]'
-has_part_s_: '[[_Standards/WikiData/WD~Hudson_Strait,207702]]'
+  - "[[_Standards/WikiData/WD~Labrador_Sea,184189]]"
+  - "[[_Standards/WikiData/WD~Arctic_Ocean,788]]"
+has_part_s_: "[[_Standards/WikiData/WD~Hudson_Strait,207702]]"
 described_by_source:
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
-  - '[[_Standards/WikiData/WD~Q35541239,35541239]]'
-different_from: '[[_Standards/WikiData/WD~Baffin_Bay,2905199]]'
-inflows: '[[_Standards/WikiData/WD~Kuugaaluk,6425758]]'
-drainage_basin: '[[_Standards/WikiData/WD~Arctic_Ocean_basin,46525532]]'
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
+  - "[[_Standards/WikiData/WD~Q35541239,35541239]]"
+different_from: "[[_Standards/WikiData/WD~Baffin_Bay,2905199]]"
+inflows: "[[_Standards/WikiData/WD~Kuugaaluk,6425758]]"
+drainage_basin: "[[_Standards/WikiData/WD~Arctic_Ocean_basin,46525532]]"
 located_in_the_administrative_territorial_entity:
-  - '[[_Standards/WikiData/WD~Nunavut,2023]]'
-  - '[[_Standards/WikiData/WD~Greenland,223]]'
+  - "[[_Standards/WikiData/WD~Nunavut,2023]]"
+  - "[[_Standards/WikiData/WD~Greenland,223]]"
 country:
-  - '[[_Standards/WikiData/WD~Canada,16]]'
-  - '[[_Standards/WikiData/WD~Greenland,223]]'
-instance_of: '[[_Standards/WikiData/WD~sea,165]]'
+  - "[[_Standards/WikiData/WD~Canada,16]]"
+  - "[[_Standards/WikiData/WD~Greenland,223]]"
+instance_of: "[[_Standards/WikiData/WD~sea,165]]"
 width: 550
 area: 689000
-named_after: '[[_Standards/WikiData/WD~William_Baffin,55807]]'
+named_after: "[[_Standards/WikiData/WD~William_Baffin,55807]]"
 vertical_depth: 2136
 Commons_category: Baffin Bay
 U_S_National_Archives_Identifier: 10038151
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Iceberg%20at%20Baffin%20Bay.jpg
 coordinate_location: Point(-67.996419444 74.00135)
+dv_is_:
+  same_as: "[[../../../../../WikiData/WD~Baffin_Bay,37040|WD~Baffin_Bay,37040]]"
+dv_is_same_as: "[[../../../../../WikiData/WD~Baffin_Bay,37040|WD~Baffin_Bay,37040]]"
 ---
 
 # [[Baffin_Bay]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Baffin_Bay,37040|WD~Baffin_Bay,37040]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -62,4 +65,21 @@ coordinate_location: Point(-67.996419444 74.00135)
 > Most of the aquatic life of the bay is concentrated near that region.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Baffin%20Bay) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Greenland/Baffin_Bay|Baffin_Bay]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Greenland/Baffin_Bay.public|Baffin_Bay.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Greenland/Baffin_Bay.internal|Baffin_Bay.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Greenland/Baffin_Bay.protect|Baffin_Bay.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Greenland/Baffin_Bay.private|Baffin_Bay.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Greenland/Baffin_Bay.personal|Baffin_Bay.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Greenland/Baffin_Bay.secret|Baffin_Bay.secret]] 
 

@@ -1,4 +1,10 @@
-﻿---
+---
+dv_"Park", "NortheastGreenlandNationalPark: 6356z"
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~Northeast_Greenland_National_Park,309276]]"
+dv_park-northeastgreenlandnationalpark: 6356z"
+dv_is_same_as: "[[../../../../../../WikiData/WD~Northeast_Greenland_National_Park,309276]]"
+
 has_time_started: 1974-05-22 
 aliases:
   - Nationalparken
@@ -56,7 +62,7 @@ locator_map_image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/G-National%20park-names.svg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Greenland%20National%20Park%20locator%20map.svg
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Wv%20Northeast%20Greenland%20National%20Park%20banner.jpg
-Wolfram_Language_entity_code: Entity["Park", "NortheastGreenlandNationalPark::6356z"]
+Wolfram_Language_entity_code: Entity"Park", "NortheastGreenlandNationalPark = `=this.dv_"Park", "NortheastGreenlandNationalPark`
 official_name: Nationalparken i Nord- og �stgr�nland
 native_label: Kalaallit Nunaanni nuna eqqissisimatitaq
 satellite_view: http://commons.wikimedia.org/wiki/Special:FilePath/Earth%20from%20Space-%20Northeast%20Greenland%20National%20Park%20ESA512867.jpg
@@ -65,7 +71,7 @@ satellite_view: http://commons.wikimedia.org/wiki/Special:FilePath/Earth%20from%
 
 # [[[Greenland~Nationalparken]]
 
-#is_/same_as :: [[WD~Northeast_Greenland_National_Park,309276]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -87,19 +93,20 @@ markerFolder: ./Greenland~Nationalparken/
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Northeast%20Greenland%20National%20Park) 
 
+
 ## Confidential Links & Embeds: 
 
-### [Greenland~Nationalparken](/_Standards/Earth/Continent/Europe/Europe~North/Greenland/Communities~Greenland/Greenland~Nationalparken.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Greenland/Communities~Greenland/Greenland~Nationalparken|Greenland~Nationalparken]] 
 
-### [Greenland~Nationalparken.public](/_public/Earth/Continent/Europe/Europe~North/Greenland/Communities~Greenland/Greenland~Nationalparken.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Greenland/Communities~Greenland/Greenland~Nationalparken.public|Greenland~Nationalparken.public]] 
 
-### [Greenland~Nationalparken.internal](/_internal/Earth/Continent/Europe/Europe~North/Greenland/Communities~Greenland/Greenland~Nationalparken.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Greenland/Communities~Greenland/Greenland~Nationalparken.internal|Greenland~Nationalparken.internal]] 
 
-### [Greenland~Nationalparken.protect](/_protect/Earth/Continent/Europe/Europe~North/Greenland/Communities~Greenland/Greenland~Nationalparken.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Greenland/Communities~Greenland/Greenland~Nationalparken.protect|Greenland~Nationalparken.protect]] 
 
-### [Greenland~Nationalparken.private](/_private/Earth/Continent/Europe/Europe~North/Greenland/Communities~Greenland/Greenland~Nationalparken.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Greenland/Communities~Greenland/Greenland~Nationalparken.private|Greenland~Nationalparken.private]] 
 
-### [Greenland~Nationalparken.personal](/_personal/Earth/Continent/Europe/Europe~North/Greenland/Communities~Greenland/Greenland~Nationalparken.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Greenland/Communities~Greenland/Greenland~Nationalparken.personal|Greenland~Nationalparken.personal]] 
 
-### [Greenland~Nationalparken.secret](/_secret/Earth/Continent/Europe/Europe~North/Greenland/Communities~Greenland/Greenland~Nationalparken.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Greenland/Communities~Greenland/Greenland~Nationalparken.secret|Greenland~Nationalparken.secret]] 
 
