@@ -42,15 +42,13 @@ dv_ISO4217-currency_country_name: GREENLAND
 dv_Telephone: 299
 dv_Global: true
 dv_Global_Name: World
-dv_name: Greenland
-dv_name-en:
-  - Greenland
-  - Greenland
-dv_name-es: Groenlandia
-dv_name-fr: Groenland
-dv_name-cn: 格陵兰
-dv_name-ar: غرينلند
-dv_name-ru: Гренландия
+dv_has_name_: Greenland
+dv_has_name_en: Greenland
+dv_has_name_es: Groenlandia
+dv_has_name_fr: Groenland
+dv_has_name_cn: 格陵兰
+dv_has_name_ar: غرينلند
+dv_has_name_ru: Гренландия
 dv_CLDR_display_name: Greenland
 dv_Region_Name: "[[Americas]]"
 dv_Intermediate_Region_Name: "[[ReadMe]]"
@@ -75,7 +73,7 @@ dv_Developed_:
 dv_ISO3166-1-numeric: 304
 dv_ISO2: GL
 dv_ISO3: GRL
-dv_name-de: Grönland
+dv_has_name_de: Grönland
 dv_Area-Total: 0
 dv_Area-Land: 0
 dv_Continent: "[[../../../Europe]]"
@@ -100,12 +98,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 name = `=this.dv_name` 
-[	name-en	 :: Greenland ] 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+[	has_name_en	 :: Greenland ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 
@@ -164,8 +162,8 @@ geojsonFolder: .//
 markerFolder: .///
 ```
 
-[name-en::Greenland] 
-name-de = `=this.dv_name-de` 
+[has_name_en::Greenland] 
+has_name_de = `=this.dv_has_name_de` 
 ![[Coat_of_arms_of_Greenland.svg|350]] 
 ![[Flag_of_Greenland.svg|350]] 
 

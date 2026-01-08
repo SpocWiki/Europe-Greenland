@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: -51.67
 dv_has_place_latitude: 64.25
-dv_name: Godthab
+dv_has_name_: Godthab
 dv_Country: "[[../../Greenland]]"
 ---
 #is_a_/Place  
